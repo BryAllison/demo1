@@ -12,4 +12,3 @@ Used for learning ways of github
 
 ## Contributing
 
-Not taking contributions
